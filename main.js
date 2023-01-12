@@ -4,7 +4,7 @@ document.querySelector('.menu-btn').addEventListener('click',()=>{
 ;
 
 ScrollReveal().reveal('.showcase');
-ScrollReveal().reveal('.showcase',{delay:500});
-ScrollReveal().reveal('.news-cards',{delay:500});
-ScrollReveal().reveal('.cards-banner-one',{delay:500});
-ScrollReveal().reveal('.cards-banner-two',{delay:500});
+ScrollReveal().reveal('.showcase',{ delay: 500 });
+ScrollReveal().reveal('.news-cards',{ delay:500 });
+ScrollReveal().reveal('.card-banner-one',{ delay:500 });
+ScrollReveal().reveal('.card-banner-two',{ delay:500 });
